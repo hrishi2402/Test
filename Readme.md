@@ -1,1 +1,1 @@
-ghjjh Django Base Project gfdgggggggggggggg
+ghjjh Django Base Project hj
