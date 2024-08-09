@@ -1,1 +1,1 @@
-ghjjh Django Base Pro
+ghjjh Django Base 
